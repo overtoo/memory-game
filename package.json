@@ -1,6 +1,6 @@
 {
   "name": "state-learning",
-  "homepage": "http://overtoo.github.io/memory-game.git",
+  "homepage": "http://overtoo.github.io/memory-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
