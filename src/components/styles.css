@@ -19,7 +19,7 @@
 .failed {
   background-color: rgb(252, 91, 91);
   opacity: 1;
-  transition: background-color 1s;
+  transition: background-color 1.1s;
 }
 
 .playagain {
