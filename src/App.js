@@ -121,7 +121,7 @@ const App = () => {
     <div>
       <div className={failed ? "playagain" : "playagain hide"}>
         {console.log("App rendered.")}
-        score: {selected.length}
+        score: {selected.length - 1}
         <div>click to play again</div>
       </div>
       <div className="header">
