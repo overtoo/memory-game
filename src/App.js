@@ -126,7 +126,7 @@ const App = () => {
       </div>
       <div className="header">
         <span className="title">Memory Game</span>
-        <span className="score">Score: {selected.length}</span>
+        <span className="score">Score: {selected.length - 1}</span>
       </div>
       <div className={failed ? "content failed failed-transition" : "content"}>
         <Cards cards={cards} selectBox={selectBox} />
